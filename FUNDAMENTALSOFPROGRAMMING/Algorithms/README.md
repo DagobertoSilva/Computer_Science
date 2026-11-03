@@ -119,7 +119,7 @@ A flowchart analyzes the problem statement and outlines the steps to solve it us
 
 **Example**
 
-![Flowchart: multiplication of two numbers](images/FlowChart.png)
+![Flowchart: multiplication of two numbers](images/Flowchart.png)
 
 ### 3. Pseudocode (Portugol)
 
