@@ -110,16 +110,16 @@ A flowchart analyzes the problem statement and outlines the steps to solve it us
 
 | Symbol | Meaning |
 |:------:|---------|
-| ![Start/End symbol](FUNDAMENTALSOFPROGRAMMING/Algorithms/images/beginEnd.png) | **Start / End**: indicates the beginning and the end of the algorithm. |
-| ![Flow arrow symbol](FUNDAMENTALSOFPROGRAMMING/Algorithms/images/arrow.png) | **Flow direction**: indicates the direction of the data flow. |
-| ![Process symbol](FUNDAMENTALSOFPROGRAMMING/Algorithms/images/calculus.png) | **Process**: indicates calculations and the assignment of values. |
-| ![Input symbol](FUNDAMENTALSOFPROGRAMMING/Algorithms/images/input.png) | **Input**: represents data input. |
-| ![Output symbol](FUNDAMENTALSOFPROGRAMMING/Algorithms/images/Output.png) | **Output**: represents data output. |
-| ![Decision symbol](FUNDAMENTALSOFPROGRAMMING/Algorithms/images/decision.png) | **Decision**: indicates decision-making, showing the possibility of branching paths. |
+| ![Start/End symbol](images/beginEnd.png) | **Start / End**: indicates the beginning and the end of the algorithm. |
+| ![Flow arrow symbol](images/arrow.png) | **Flow direction**: indicates the direction of the data flow. |
+| ![Process symbol](images/calculus.png) | **Process**: indicates calculations and the assignment of values. |
+| ![Input symbol](images/input.png) | **Input**: represents data input. |
+| ![Output symbol](images/Output.png) | **Output**: represents data output. |
+| ![Decision symbol](images/decision.png) | **Decision**: indicates decision-making, showing the possibility of branching paths. |
 
 **Example**
 
-![Flowchart: multiplication of two numbers](FUNDAMENTALSOFPROGRAMMING/Algorithms/images/FlowChart.png)
+![Flowchart: multiplication of two numbers](images/FlowChart.png)
 
 ### 3. Pseudocode (Portugol)
 
